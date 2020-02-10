@@ -148,11 +148,13 @@ p {
     padding: 20px;
     clear: both;
     float: right;
+    /* changing % to px */
     width: 20%;
-    height: 100%;
+    height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0e384e;
     text-align: center;
+
 }
 
 .card {
@@ -163,19 +165,19 @@ p {
 .img1 {
     display: block;
     margin: 10px auto;
-    max-width: 66%;
+    max-width: 160px;
 }
 
 .img2 {
     display: block;
     margin: 10px auto;
-    max-width: 66%;
+    max-width: 160px;
 }
 
 .img3 {
     display: block;
     margin: 10px auto;
-    max-width: 66%;
+    max-width: 160px;
 }
 
 footer {
