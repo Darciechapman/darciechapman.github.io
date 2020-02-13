@@ -1,11 +1,7 @@
 * {
-    /* "*" creates an element, for this one it is a box */
     box-sizing: border-box;
-    /* border-box auto sizes width and height of the content, padding, and border  */
     padding: 0;
-    /*  changes padding to 0 */
     margin: 0;
-    /*  changes margin to 0 */
 }
 
 body {
