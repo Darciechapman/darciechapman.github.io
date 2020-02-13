@@ -139,7 +139,7 @@ p {
     font-size: 36px;
 }
 
-.container {
+aside.container {
     /* change to % */
     margin-right: 1%;
     padding: 20px;
@@ -154,7 +154,7 @@ p {
 
 }
 
-.card {
+aside.card {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -162,19 +162,19 @@ p {
 .img1 {
     display: block;
     margin: 10px auto;
-    max-width: 160px;
+    max-width: 60%;
 }
 
 .img2 {
     display: block;
     margin: 10px auto;
-    max-width: 160px;
+    max-width: 60%;
 }
 
 .img3 {
     display: block;
     margin: 10px auto;
-    max-width: 160px;
+    max-width: 60%;
 }
 
 footer {
