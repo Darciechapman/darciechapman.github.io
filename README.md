@@ -1,3 +1,4 @@
-Code Refractor 
+Code Refractor
 
-In this project, the objective was to take existing, functional code, clean it up and refactor it to meet standards enabling people with socio-economic restrictions or disabilities to access the website.
+The objective of this project was to take functional working code, tidy it up and refactor it, making it accessible for individuals with disabilities or low socio-economic restrictions. These standards are important for companies to achieve, assuring a wide range of people will be able to view and understand the website.
+
